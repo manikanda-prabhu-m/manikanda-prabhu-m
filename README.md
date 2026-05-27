@@ -52,10 +52,11 @@ A four-wheeled telepresence robot controlled by **hand gestures and head movemen
 
 ---
 
-### 🦾 [SCARA Robot for Vision Inspection](https://github.com/mani-minion/scara-robot-vision-inspection)
-A SCARA robot arm with **forward/inverse kinematics** engine integrated with real-time **OpenCV vision inspection** for automated object detection, classification, and pick-and-place.
+### 🦾 [SCARA Robot for Vision Inspection](https://github.com/manikanda-prabhu-m/scara-robot-vision-inspection)
 
-`Python` `OpenCV` `Robot Kinematics` `Servo Control` `PCA9685`
+A 3-axis SCARA robot integrated with a **TensorFlow 2 SSD MobileNet V2** object detection pipeline deployed on Raspberry Pi 4. Inverse kinematics solved using Tinyik. Two-mode inspection: continuous conveyor checking and batchwise SCARA-assisted internal inspection.
+
+`Python` `TensorFlow 2` `SSD MobileNet V2` `Tinyik` `Raspberry Pi 4` `PCA9685` `Robot Kinematics`
 
 ---
 

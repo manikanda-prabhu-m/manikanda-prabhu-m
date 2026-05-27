@@ -1,8 +1,8 @@
 # Hi, I'm Manikanda Prabhu 👋
 
-**Robotics Engineer | IoT & Voice Testing Professional | Aspiring Researcher**
+**Robotics Engineer | IoT & Voice Testing Professional | Autonomous Systems Enthusiast**
 
-I'm a Robotics and Automation engineer from India with hands-on experience in autonomous systems, ROS, computer vision, and embedded systems. Currently working at **Cognizant Technology Solutions** as a Programmer Analyst in the IoT domain, and actively pursuing research opportunities in **Mobile Robotics**.
+I'm a Robotics and Automation engineer from India with hands-on experience in autonomous systems, ROS, computer vision, and embedded systems. Currently working at **Cognizant Technology Solutions** as a Programmer Analyst in the IoT domain, and actively pursuing graduate studies in **Autonomous Systems and Robotics**.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a Robotics and Automation engineer from India with hands-on experience in au
 - 💼 **Programmer Analyst – IoT Domain** @ Cognizant, Bengaluru
 - 📄 **Published researcher** — International Conference ICICAEPHAM 2023, Palakkad
 - 🌱 Currently learning **German (A1)** and deepening knowledge in **probabilistic robotics & SLAM**
-- 🎯 Research interests: **Mobile Robotics · Autonomous Systems · Human-Robot Interaction · Robot Perception**
+- 🎯 Research interests: **Mobile Robotics · Autonomous Systems · Human-Robot Interaction · SLAM · Planning & Control · ADAS· Robot Perception**
 
 ---
 

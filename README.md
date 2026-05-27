@@ -11,7 +11,7 @@ I'm a Robotics and Automation engineer from India with hands-on experience in au
 - 🎓 **B.E. Robotics and Automation** — Sri Ramakrishna Engineering College, Coimbatore (CGPA: 8.24)
 - 💼 **Programmer Analyst – IoT Domain** @ Cognizant, Bengaluru
 - 📄 **Published researcher** — International Conference ICICAEPHAM 2023, Palakkad
-- 🌱 Currently learning **German (A1)** and deepening knowledge in **probabilistic robotics & SLAM**
+- 🌱 Currently learning **German (A1)** and deepening knowledge in **Autonomous Systems & SLAM**
 - 🎯 Research interests: **Mobile Robotics · Autonomous Systems · Human-Robot Interaction · SLAM · Planning & Control · ADAS· Robot Perception**
 
 ---
